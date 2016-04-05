@@ -1,0 +1,19 @@
+{
+  "name": "canjs-template-promise-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "can": "^2.3.22",
+    "funcunit": "^3.1.0-pre.1",
+    "qunitjs": "^1.23.0",
+    "steal": "^0.15.5",
+    "steal-qunit": "^0.1.1",
+    "testee": "^0.2.5"
+  }
+}
